@@ -1,0 +1,6 @@
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\bin\Debug\StitchImages.XML
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\bin\Debug\StitchImages.dll
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\bin\Debug\StitchImages.pdb
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\obj\Debug\mesclaImagens.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\obj\Debug\StitchImages.dll
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\obj\Debug\StitchImages.pdb

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StitchImages</name>
+    </assembly>
+    <members>
+        <member name="M:StitchImages.StitchImages.JoinImages(System.String,System.String)">
+            <summary>
+            Method to join the images in the list in a given orientation and save the finalImage in provided filepath
+            </summary>
+            <param name="outPutFile">The name of the final joined image file</param>
+            <param name="Orientation">Vertically,Horizontally</param>
+        </member>
+        <member name="M:StitchImages.StitchImages.JoinImages(System.String)">
+            <summary>
+            Method to join images and return the bitmap of the final image 
+            </summary>
+            <param name="Orientation">Horizontally,Vertically</param>
+            <returns>Bitmap</returns>
+        </member>
+    </members>
+</doc>

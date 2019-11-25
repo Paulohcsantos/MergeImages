@@ -1,0 +1,11 @@
+C:\Users\v-alok\Documents\Visual Studio 2013\Projects\StitchImages\StitchImages\bin\Debug\StitchImages.dll
+C:\Users\v-alok\Documents\Visual Studio 2013\Projects\StitchImages\StitchImages\bin\Debug\StitchImages.pdb
+C:\Users\v-alok\Documents\Visual Studio 2013\Projects\StitchImages\StitchImages\obj\Debug\StitchImages.dll
+C:\Users\v-alok\Documents\Visual Studio 2013\Projects\StitchImages\StitchImages\obj\Debug\StitchImages.pdb
+C:\Users\v-alok\Documents\Visual Studio 2013\Projects\StitchImages\StitchImages\bin\Debug\StitchImages.XML
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\bin\Debug\StitchImages.XML
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\bin\Debug\StitchImages.dll
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\bin\Debug\StitchImages.pdb
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\obj\Debug\StitchImages.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\obj\Debug\StitchImages.dll
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\obj\Debug\StitchImages.pdb

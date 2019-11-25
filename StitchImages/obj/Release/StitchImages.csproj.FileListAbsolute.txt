@@ -1,0 +1,12 @@
+C:\Users\v-alok\Documents\Visual Studio 2013\Projects\StitchImages\StitchImages\bin\Release\StitchImages.dll
+C:\Users\v-alok\Documents\Visual Studio 2013\Projects\StitchImages\StitchImages\bin\Release\StitchImages.pdb
+C:\Users\v-alok\Documents\Visual Studio 2013\Projects\StitchImages\StitchImages\obj\Release\StitchImages.dll
+C:\Users\v-alok\Documents\Visual Studio 2013\Projects\StitchImages\StitchImages\obj\Release\StitchImages.pdb
+C:\Users\v-alok\Documents\Visual Studio 2013\Projects\StitchImages\StitchImages\bin\Release\StitchImages.XML
+C:\Users\v-alok\Documents\Visual Studio 2013\Projects\StitchImages\StitchImages\obj\Release\StitchImages.csprojResolveAssemblyReference.cache
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\bin\Release\StitchImages.XML
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\bin\Release\StitchImages.dll
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\bin\Release\StitchImages.pdb
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\obj\Release\StitchImages.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\obj\Release\StitchImages.dll
+C:\Users\Paulo\Downloads\StitchImages-master\StitchImages\obj\Release\StitchImages.pdb

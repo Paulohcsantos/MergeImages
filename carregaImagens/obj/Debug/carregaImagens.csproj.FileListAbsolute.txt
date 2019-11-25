@@ -1,0 +1,14 @@
+C:\Users\Paulo\Downloads\StitchImages-master\carregaImagens\bin\Debug\carregaImagens.exe.config
+C:\Users\Paulo\Downloads\StitchImages-master\carregaImagens\bin\Debug\carregaImagens.exe
+C:\Users\Paulo\Downloads\StitchImages-master\carregaImagens\bin\Debug\carregaImagens.pdb
+C:\Users\Paulo\Downloads\StitchImages-master\carregaImagens\bin\Debug\StitchImages.dll
+C:\Users\Paulo\Downloads\StitchImages-master\carregaImagens\bin\Debug\StitchImages.pdb
+C:\Users\Paulo\Downloads\StitchImages-master\carregaImagens\bin\Debug\StitchImages.xml
+C:\Users\Paulo\Downloads\StitchImages-master\carregaImagens\obj\Debug\carregaImagens.csprojAssemblyReference.cache
+C:\Users\Paulo\Downloads\StitchImages-master\carregaImagens\obj\Debug\carregaImagens.Form1.resources
+C:\Users\Paulo\Downloads\StitchImages-master\carregaImagens\obj\Debug\carregaImagens.Properties.Resources.resources
+C:\Users\Paulo\Downloads\StitchImages-master\carregaImagens\obj\Debug\carregaImagens.csproj.GenerateResource.cache
+C:\Users\Paulo\Downloads\StitchImages-master\carregaImagens\obj\Debug\carregaImagens.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Downloads\StitchImages-master\carregaImagens\obj\Debug\carregaImagens.csproj.CopyComplete
+C:\Users\Paulo\Downloads\StitchImages-master\carregaImagens\obj\Debug\carregaImagens.exe
+C:\Users\Paulo\Downloads\StitchImages-master\carregaImagens\obj\Debug\carregaImagens.pdb
